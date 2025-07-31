@@ -15,6 +15,6 @@
 <br>
 <img alt="" src="../1.jpg" style="width: 300px;">
 <img alt="" src="../25.jpg" style="width: 300px;">
-<span>제 이름은 손현정. 팀장이죠gg</span>
+<span>제 이름은 손현정. 팀장이죠ㅎㅎㅎㅎㅎㅎㅎㅎ</span>
 </body>
 </html>
